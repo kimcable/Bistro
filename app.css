@@ -2,9 +2,7 @@ app.css
 body{
 	background-image=url"Image 1.jpeg"
 }
-body {
-  background: url(Image 1.jpg) no-repeat;
-}
+
 p {
 font-family: Arial; 
 font-size:14px; 
