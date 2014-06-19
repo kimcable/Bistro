@@ -1,16 +1,47 @@
-app.css
-body{
-	background-image=url"Image 1.jpeg"
+.header{
+	background: #905025;
+	position:; fixed;
+	height: 160px;
+	width:100%;
+	top:0px;
 }
-
+.logo{
+	float: left;
+	margin-left:60px;
+	border: 5px solid #bab27c;
+	height: 265px;
+	width:225px;
+	position: fixed;
+	z-index: 1;
+	background: #905025;
+	margin-top:0px;
+}
+.nav{
+	background: #bab27c;
+	margin-top:160px;
+	height:50px;
+	width:100%;
+	position: fixed;
+}
+.bottom{
+	background: #905025;
+	height: 20px;
+	width:100%;
+	top:0px;
+}
+.main image{
+	top:0px;
+	width:960px;
+	height:380px;
+}
 p {
 font-family: Arial; 
 font-size:14px; 
 color:#4f2f15; 
-text-align:left">
+text-align:left;
 }
 h1 {
 	font-family: Arial; 
 	font-size:16px; 
-	color:#905025
+	color:#905025;
 }
